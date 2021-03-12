@@ -1,2 +1,2 @@
-# fizz-buzz.py
+# FizzBuzz
  
